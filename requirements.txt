@@ -1,0 +1,7 @@
+torch
+scipy
+librosa
+numpy
+praat-parselmouth
+torchaudio
+
